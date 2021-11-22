@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 5px;
+    
+}
+.Giriş{
+    background-color:rgb(219, 216, 216);
+    background-size: cover;
+}
+h1{
+    color:rgb(45,94,45);
+    text-align: center;
+    font-size: 35px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+}
+h3{
+    color: rgb(107, 19, 19);
+    text-align: center;
+}
+h4{
+    color: rgb(73, 104, 161);
+}
+.anasayfa{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+.ürünlerimiz{
+    text-align: center;
+}
+.ürünlerimiz p{
+    font-size: 20px;
+}
+.iletişim{
+    text-align: center;
+}
